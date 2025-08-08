@@ -49,6 +49,7 @@ This repository contains all my notes, mini-projects, assignments, and final cap
 | **Secrets App**     | Anonymous user secrets with auth             | Node.js, MongoDB, Passport   |
 | **QR Code Generator**| CLI tool to turn user-entered URL into QR code images | Node.js, Inquirer, qr-image, fs module     |
 | **Drum Kit**         | Play drum sounds on key press or click using local MP3 files | HTML, CSS, JavaScript (HTMLAudioElement) |
+| **Band Name Generator** | Web app that generates a random band name using a random adjective and noun | EJS, JavaScript, CSS |
 | **To-Do List App**  | Add/remove items, hosted with MongoDB        | Node.js, Express, EJS, Mongo |
 | **Blog Site**       | Simple blog with dynamic post routes         | Express, EJS, MongoDB        |
 
@@ -94,3 +95,12 @@ The website URL has been saved to website.txt!
 ### 🥁 Drum Kit
 
 <img src="https://github.com/user-attachments/assets/12863ea1-7030-46a5-8b38-966f65f86d72" style="width: 300px;" />
+
+---
+
+### 🎤 Band Name Generator
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/ec7cdf6b-d01e-47be-ba94-5c1e9e2dd833" style="width: 300px;"/>
+  <img src="https://github.com/user-attachments/assets/ae1d965c-0940-4659-8b57-9c5429b3667a" style="width: 300px;"/>
+</div>
+
