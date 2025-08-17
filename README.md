@@ -50,6 +50,7 @@ This repository contains all my notes, mini-projects, assignments, and final cap
 | **QR Code Generator**| CLI tool to turn user-entered URL into QR code images | Node.js, Inquirer, qr-image, fs module     |
 | **Drum Kit**         | Play drum sounds on key press or click using local MP3 files | HTML, CSS, JavaScript (HTMLAudioElement) |
 | **Band Name Generator** | Web app that generates a random band name using a random adjective and noun | EJS, JavaScript, CSS |
+| **Taco Recipes**    | Dynamic taco recipe viewer using JSON data  | Node.js, Express, EJS, JSON  |
 | **To-Do List App**  | Add/remove items, hosted with MongoDB        | Node.js, Express, EJS, Mongo |
 | **Blog Site**       | Simple blog with dynamic post routes         | Express, EJS, MongoDB        |
 
@@ -102,5 +103,13 @@ The website URL has been saved to website.txt!
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/ec7cdf6b-d01e-47be-ba94-5c1e9e2dd833" style="width: 300px;"/>
   <img src="https://github.com/user-attachments/assets/ae1d965c-0940-4659-8b57-9c5429b3667a" style="width: 300px;"/>
+</div>
+
+### 🌮 Taco Recipes 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/f995ff0b-34eb-48ca-8389-2df329bd544c" style="width: 300px;"/>
+  <img src="https://github.com/user-attachments/assets/d31b2e7f-fd5c-4e89-9fb4-269d81452862" style="width: 300px;"/>
+  <img src="https://github.com/user-attachments/assets/da022609-f2c0-4126-b5fa-452159185073" style="width: 300px;"/>
+  <img src="https://github.com/user-attachments/assets/c7cffc27-bb42-44de-8e44-a74775661c0b" style="width: 300px;"/>
 </div>
 
